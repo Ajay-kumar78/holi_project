@@ -2,6 +2,9 @@
 
 A vibrant web application celebrating the festival of colors - Holi! Features interactive animations, colorful effects, and festive wishes.
 
+3. Open https://holi-three.vercel.app in your browser
+
+
 ## Features
 - Interactive color animations
 - Festive confetti effects
@@ -20,7 +23,6 @@ npm install
 npm run dev
 ```
 
-3. Open https://holi-three.vercel.app in your browser
 
 ## Tech Stack
 - React + TypeScript
