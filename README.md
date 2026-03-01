@@ -20,7 +20,7 @@ npm install
 npm run dev
 ```
 
-3. Open http://localhost:3000 in your browser
+3. Open https://holi-three.vercel.app in your browser
 
 ## Tech Stack
 - React + TypeScript
