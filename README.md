@@ -2,7 +2,7 @@
 
 A vibrant web application celebrating the festival of colors - Holi! Features interactive animations, colorful effects, and festive wishes.
 
-3. Open https://holi-three.vercel.app in your browser
+Open https://holi-three.vercel.app in your browser
 
 
 ## Features
